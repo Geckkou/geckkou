@@ -1,4 +1,5 @@
 ## Eae! Eu me chamo Alexandre.
+![Snake animation](https://github.com/Geckkou/geckkou/blob/output/github-contribution-grid-snake.svg)
  <div>
   <a href="https://github.com/Geckkou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geckkou&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
